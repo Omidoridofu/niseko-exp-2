@@ -350,6 +350,7 @@ a,h1,h2,h3,h4,p{
     }
     .exp-answer p{
         padding-left:20px;
+        font-weight:bold;
     }
     #tsuite{
         text-align:center;
