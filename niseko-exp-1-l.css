@@ -24,7 +24,7 @@ h1,h2{
     font-family:'ヒラギノ角ゴシック','Hiragino Sans',sans-serif;
 }
 p,a,li{
-    font-family:"normal";
+    font-family:'ヒラギノ角ゴシック','Hiragino Sans',sans-serif;
 }
 
 a,h1,h2,h3,h4,p{
@@ -343,7 +343,6 @@ a,h1,h2,h3,h4,p{
     }
     .exp-question p{
         padding-left:20px;
-        font-weight:bold;
     }
     .exp-answer{
         width:95%;
