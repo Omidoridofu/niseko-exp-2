@@ -21,7 +21,7 @@ body{
     margin:20px auto;
 }
 h1,h2{
-    font-family:"bold";
+    font-family:'ヒラギノ角ゴシック','Hiragino Sans',sans-serif;
 }
 p,a,li{
     font-family:"normal";
