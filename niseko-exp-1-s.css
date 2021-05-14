@@ -21,10 +21,10 @@ body{
     margin:20px auto;
 }
 h1,h2{
-    font-family:"bold";
+    font-family:'ヒラギノ角ゴシック','Hiragino Sans',sans-serif;
 }
 p,a,li{
-    font-family:"normal";
+    font-family:'ヒラギノ角ゴシック','Hiragino Sans',sans-serif;
 }
 
 a,h1,h2,h3,h4,p{
@@ -214,7 +214,6 @@ a,h1,h2,h3,h4,p{
     }
     .exp-question p{
         padding-left:10px;
-        font-weight:bold;
         width:90%;
         margin:0 auto;
     }
