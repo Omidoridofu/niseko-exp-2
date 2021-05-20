@@ -197,7 +197,7 @@ a,h1,h2,h3,h4,p{
     #exp-container{
         width:1100px;
         margin:0 auto;
-
+        padding-bottom:20px;
     }
     #exp-top h1{
         font-size:24px;
@@ -213,7 +213,7 @@ a,h1,h2,h3,h4,p{
         width:65%;
         position:relative;
         margin-top:20px;
-        margin-bottom:30px;
+        
     }
 
     #exp-left-container{
@@ -256,6 +256,7 @@ a,h1,h2,h3,h4,p{
         display:inline-block;
         vertical-align:top;
         width:28%;
+        
         margin-top:20px;
         margin-left:20px;
     }
@@ -339,5 +340,67 @@ a,h1,h2,h3,h4,p{
     .footer-3 p{
         font-size:22px;
     }
-    
+    /* 一つめ */
+    #exp-left-container{
+        width:100%;
+        margin:20px auto;
+        background-color:white;
+        padding-top:10px;
+        padding-bottom:10px;
+    }
+    #exp-person-ct{
+        width:95%;
+        margin:10px auto 30px;
+        filter: drop-shadow(0px 0px 0px #aaa);
+        border:1px solid rgba(128, 128, 128, 0.322);
+        padding:10px 0;
+        background-color:rgba(128, 128, 128, 0.067);
+    }
+    #exp-person-ct h1{
+        padding:0 20px 10px;
+        font-size:16px;
+    }
+    #exp-person-ct p{
+        padding:0 20px;
+    }
+    .exp-question{
+        width:95%;
+        margin:0 auto;
+        padding:1px 0;
+        background-color:#c9b0eb2a;
+        border:2px solid #c9b0eb94;
+        line-height:40px;
+        
+    }
+    .exp-question p{
+        padding-left:20px;
+    }
+    .exp-answer{
+        width:95%;
+        margin:10px auto 40px;
+    }
+    .exp-answer p{
+        padding-left:20px;
+        font-weight:bold;
+    }
+    #tsuite{
+        text-align:center;
+        font-size:22px;
+        margin:20px 0;
+    }
+    #exp-top-heading{
+        font-size:20px;
+        text-align:center;
+    }
+    .exp-answer span{
+        font-weight:lighter;
+        font-size:13px;
+    }
+
+    #back-to{
+        text-decoration: underline;
+    }
+    header a{
+        text-decoration: none;
+    }
 }
